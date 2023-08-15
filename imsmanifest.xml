@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6plBYWIR3Aq" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">RTI Module</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="RTI_Module_ORG">
+    <organization identifier="RTI_Module_ORG">
+      <title>RTI Module</title>
+      <item identifier="ConsultationModels_SCO" isvisible="true" identifierref="__6plBYWIR3Aq_RES">
+        <title>RTI Module</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6plBYWIR3Aq_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6OG0ILx2u0o.png" />
+      <file href="story_content/6BGsvMLMaH2_44100_48_0.mp3" />
+      <file href="story_content/6KRlhVlQ6ar_44100_48_0.mp3" />
+      <file href="story_content/6N9uFLL4Maa_44100_48_0.mp3" />
+      <file href="mobile/5vC6DvUDdcQ.png" />
+      <file href="mobile/5vC6DvUDdcQ_P_0_0_459_1863.png" />
+      <file href="mobile/5rrCkBOBxX2_F3FBFE_P_162_149_1743_1215.png" />
+      <file href="mobile/5mvfxmT3aKJ.png" />
+      <file href="story_content/6L27BxyLHTe_44100_48_0.mp3" />
+      <file href="story_content/6VeCcNM4L2G_44100_48_0.mp3" />
+      <file href="mobile/5sLFAJyKAA9.png" />
+      <file href="mobile/63muP34QDaj_P_0_0_512_336.png" />
+      <file href="mobile/6nkRGjN6iBm_P_29_161_444_168.png" />
+      <file href="mobile/5rxNSFUNLQy.png" />
+      <file href="mobile/6qro4oIOwvN.png" />
+      <file href="story_content/6lnsHgYpTRa_44100_48_0.mp3" />
+      <file href="story_content/6D8t14wIhmO_44100_48_0.mp3" />
+      <file href="mobile/5YTDzwPgUfL_6BDAF5_P_17_84_549_299.png" />
+      <file href="story_content/66ShRDdjws4_44100_48_0.mp3" />
+      <file href="story_content/6mMvPqGdB6y_44100_48_0.mp3" />
+      <file href="mobile/5YTDzwPgUfL_P_20_299_690_295.png" />
+      <file href="mobile/5YTDzwPgUfL_P_468_108_259_240.png" />
+      <file href="story_content/6kNTjlqruZW_44100_48_0.mp3" />
+      <file href="mobile/69oxFiizYXF.png" />
+      <file href="mobile/6Zd9ZJ8sJ4x.png" />
+      <file href="story_content/6qXKpVD3Mgm_44100_48_0.mp3" />
+      <file href="story_content/69aIHZCX5pD_44100_48_0.mp3" />
+      <file href="story_content/6o9fwmp9KX1_44100_48_0.mp3" />
+      <file href="mobile/63d0pdRpGiu_F2F2F2.png" />
+      <file href="story_content/6Bpe7IcbqA6_44100_48_0.mp3" />
+      <file href="story_content/5wlAUOilQN7_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape6ZOBafkVQX4.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5iak1O0i7GL.js" />
+      <file href="html5/data/js/5lxVl8jeHlW.js" />
+      <file href="html5/data/js/5nQvrOM1feb.js" />
+      <file href="html5/data/js/6bwfsCOZPTp.js" />
+      <file href="html5/data/js/6D6UzUNODgx.js" />
+      <file href="html5/data/js/6ETnNt6ruG8.js" />
+      <file href="html5/data/js/6fSMpcX6vpX.js" />
+      <file href="html5/data/js/6gIv71g171P.js" />
+      <file href="html5/data/js/6KeSa0TxPjG.js" />
+      <file href="html5/data/js/6l6Ra09W36W.js" />
+      <file href="html5/data/js/6lDVPgRLCUn.js" />
+      <file href="html5/data/js/6mz7J8pXyqV.js" />
+      <file href="html5/data/js/6nfPGnpcRf5.js" />
+      <file href="html5/data/js/6qv7HDhakEP.js" />
+      <file href="html5/data/js/6T1FIGjQmPX.js" />
+      <file href="html5/data/js/6XPlmbzgjZ0.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
